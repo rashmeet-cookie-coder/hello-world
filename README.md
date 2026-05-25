@@ -16,3 +16,17 @@
 - My favourite hobby is drawing
 - I love dogs/huskies
 - I like roller skating
+
+## Now i've learned
+
+- How to use github
+- What ubuntu and linux is
+- How to download code
+- What a operating system is
+- Markdowns
+
+## This weeks goals
+
+- How to do code
+- Learn more about markdowns
+- Be able to use github faster
