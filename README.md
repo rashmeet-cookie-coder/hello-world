@@ -30,3 +30,12 @@
 - How to do code
 - Learn more about markdowns
 - Be able to use github faster
+
+# day 2
+
+## now i've learned
+
+- how to change what folder i'm in
+- how to rename files
+- how to make files
+- how to open code with the files I made
